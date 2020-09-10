@@ -1,3 +1,3 @@
 # Spring-Boot-Zuul-Proxy
  
-# First You need to start app-eureka-service then other.
+# First you need to start app-eureka-service then other.
